@@ -1,0 +1,9 @@
+1. Get the value in Celsius
+
+2. Multiply the value by 9/5
+
+3. Add 32 to the value
+
+4. Print the value in Farenheit
+
+5. Stop

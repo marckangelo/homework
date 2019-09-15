@@ -1,0 +1,17 @@
+1. Get 5 numbers 
+
+2. Compare a pair of numbers 
+
+3. Eliminate the smaller number and keep the bigger number; n - 1
+
+4. Compare the bigger number with another number in the list
+
+5. While n > 1
+	repeat steps 2 to 4
+
+   Else
+	proceed to step 6
+
+6. Print the number as the greatest number 
+
+7. Stop

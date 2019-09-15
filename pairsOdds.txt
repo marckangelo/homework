@@ -1,0 +1,11 @@
+1. Get the number 
+
+2. If the number has [0,2,4,6,8] as their last digit
+	print the number as pair 
+
+   Else 
+	print the number as odd
+
+3. Stop 
+
+	
